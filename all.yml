@@ -1,4 +1,4 @@
 carrier_routing_overrides: {
-  "13124567890", "gamma"
-  "17732889023,13125867433", "bandwidth, iq_local"
+  "13124567890": "gamma"
+  "17732889023,13125867433": "bandwidth, iq_local"
 }
